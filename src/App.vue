@@ -7,7 +7,7 @@
       >
         <div class="flex items-center">
           <router-link to="/" class="text-xl md:text-2xl font-bold"
-            >ReviewMarket</router-link
+            >Платформа с отзывами для поиска качественных товаров</router-link
           >
         </div>
         <div class="flex items-center space-x-4">
